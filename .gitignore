@@ -1,0 +1,18 @@
+# Compiled source #
+*.class
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDEA Generated files and folders #
+.classpath
+.project
+.settings
+.idea
+.metadata
+*.iml
+*.ipr
